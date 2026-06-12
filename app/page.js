@@ -123,7 +123,7 @@ const LandingPage = () => {
                     </div>
                   </div>
                   <p className="leading-relaxed text-muted-foreground font-medium italic">
-                    "{testimonial.quote}"
+                    &quot;{testimonial.quote}&quot;
                   </p>
                 </CardContent>
               </Card>
